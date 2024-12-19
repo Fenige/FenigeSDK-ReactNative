@@ -6,8 +6,11 @@ Fenige SDK
 
 ```sh
 npm install react-native-fenige-sdk
-```
+pod install
 
+Expo
+npx expo install react-native-fenige-sdk
+```
 
 ## Contributing
 

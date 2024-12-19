@@ -64,8 +64,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "axios": "^1.7.7",
-    "react-native-webview": "^13.12.3"
+    "axios": "^1.7.7"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
@@ -92,7 +91,8 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-webview": "*"
   },
   "workspaces": [
     "example"

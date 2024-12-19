@@ -12764,10 +12764,8 @@ __metadata:
     release-it: ^15.0.0
     typescript: ^5.2.2
   peerDependencies:
-    axios: "*"
     react: "*"
     react-native: "*"
-    react-native-webview: "*"
   languageName: unknown
   linkType: soft
 

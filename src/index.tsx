@@ -86,7 +86,7 @@ export const FenigeProvider = ({ children }: Props) => {
             <View style={styles.headerContainer}>
               <TouchableOpacity onPress={handleCloseView}>
                 <Image
-                  source={require('../src/assets/close.png')}
+                  source={require('./assets/close.png')}
                   style={styles.image}
                 />
               </TouchableOpacity>

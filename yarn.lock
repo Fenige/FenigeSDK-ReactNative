@@ -12877,12 +12877,12 @@ __metadata:
     react: 18.2.0
     react-native: 0.74.5
     react-native-builder-bob: ^0.30.3
+    react-native-webview: ^13.8.6
     release-it: ^15.0.0
     typescript: ^5.2.2
   peerDependencies:
     react: "*"
     react-native: "*"
-    react-native-webview: "*"
   languageName: unknown
   linkType: soft
 
@@ -12953,6 +12953,19 @@ __metadata:
     react: "*"
     react-native: "*"
   checksum: 5b2971499bdf67bb161918205b2f9e19d96160dd139f75cbbbc1e13e52e9133c623cdf06f5dd4846903029b55bd0c963277768cf17d5c47f8b7fcb8c5a1469a8
+  languageName: node
+  linkType: hard
+
+"react-native-webview@npm:^13.8.6":
+  version: 13.12.5
+  resolution: "react-native-webview@npm:13.12.5"
+  dependencies:
+    escape-string-regexp: ^4.0.0
+    invariant: 2.2.4
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: e8cd5c260e41cf3434e390fbfd55934a65d4a996d56868eb3c64f4219e06e934bb2012f3520eb9d3867f5d0821333c46c96e31904460b2ec5832aaaa14f4dd62
   languageName: node
   linkType: hard
 

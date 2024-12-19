@@ -8,17 +8,6 @@ Fenige SDK
 npm install react-native-fenige-sdk
 ```
 
-## Usage
-
-
-```js
-import { multiply } from 'react-native-fenige-sdk';
-
-// ...
-
-const result = await multiply(3, 7);
-```
-
 
 ## Contributing
 

@@ -34,4 +34,5 @@ export type GetTransactionIdRequest = {
   orderNumber: string;
   autoClear: boolean;
   typeOfAuthorization: string;
+  source: 'REACT_NATIVE'
 }

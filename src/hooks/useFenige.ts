@@ -42,6 +42,7 @@ export const useFenige = () => {
       orderNumber,
       autoClear,
       typeOfAuthorization: isRecurring ? 'COF' : 'PURCHASE',
+      source: 'REACT_NATIVE'
     };
 
     try {

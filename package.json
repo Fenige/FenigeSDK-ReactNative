@@ -1,6 +1,6 @@
 {
   "name": "react-native-fenige-sdk",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Fenige SDK",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
